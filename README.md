@@ -1,12 +1,25 @@
-# React + Vite
+# Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/user-attachments/assets/0b9d1e08-6311-4078-9b0a-5be67064e171)
 
-Currently, two official plugins are available:
+A modern, responsive Personal portfolio website built with React, Tailwind CSS, and Vite. Showcases my projects, skills, and professional information in a clean, performant interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- ⚡ **Blazing Fast** - Built with Vite for optimal performance
+- 🎨 **Modern UI** - Designed with Tailwind CSS for beautiful, responsive layouts
+- 📱 **Fully Responsive** - Works perfectly on all device sizes
+- 🌓 **Dark/Light Mode** - Optional (if implemented)
+- 📂 **Project Showcase** - Highlight your best work with project cards
+- 📬 **Contact Form** - Easy way for visitors to reach out (if implemented)
+- 🔍 **SEO Optimized** - Proper meta tags and semantic HTML
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+
+- [React](https://reactjs.org/) - JavaScript library for building user interfaces
+- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
+- [Vite](https://vitejs.dev/) - Next generation frontend tooling
+- [React Icons](https://react-icons.github.io/react-icons/) - Popular icons library
+- [Framer Motion](https://www.framer.com/motion/) - Animation library 
+
+Click Here to see Demo : https://portfolio-self-seven-bn3r1ltp7y.vercel.app/
